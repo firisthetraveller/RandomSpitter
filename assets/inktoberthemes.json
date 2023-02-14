@@ -1,6 +1,8 @@
-{
-	"general": {
-		"inktober-2016": [
+[
+	{
+		"category": "general",
+		"title": "inktober-2016",
+		"themes": [
 			"fast",
 			"noisy",
 			"collect",
@@ -32,8 +34,12 @@
 			"surprise",
 			"wreck",
 			"friend"
-		],
-		"inktober-2017": [
+		]
+	},
+	{
+		"category": "general",
+		"title": "inktober-2017",
+		"themes": [
 			"swift",
 			"divided",
 			"poison",
@@ -65,8 +71,12 @@
 			"united",
 			"found",
 			"mask"
-		],
-		"inktober-2018": [
+		]
+	},
+	{
+		"category": "general",
+		"title": "inktober-2018",
+		"themes": [
 			"poisonous",
 			"tranquil",
 			"roasted",
@@ -97,8 +107,12 @@
 			"double",
 			"jolt",
 			"slice"
-		],
-		"inktober-2019": [
+		]
+	},
+	{
+		"category": "general",
+		"title": "inktober-2019",
+		"themes": [
 			"ring",
 			"mindless",
 			"bait",
@@ -130,8 +144,12 @@
 			"injured",
 			"catch",
 			"ripe"
-		],
-		"inktober-2020": [
+		]
+	},
+	{
+		"category": "general",
+		"title": "inktober-2020",
+		"themes": [
 			"fish",
 			"wisp",
 			"bulky",
@@ -161,8 +179,12 @@
 			"shoes",
 			"ominous",
 			"crawl"
-		],
-		"inktober-2021": [
+		]
+	},
+	{
+		"category": "general",
+		"title": "inktober-2021",
+		"themes": [
 			"crystal",
 			"suit",
 			"vessel",
@@ -194,8 +216,12 @@
 			"patch",
 			"slither",
 			"risk"
-		],
-		"inktober-2022": [
+		]
+	},
+	{
+		"category": "general",
+		"title": "inktober-2022",
+		"themes": [
 			"gargoyle",
 			"scurry",
 			"bat",
@@ -229,8 +255,10 @@
 			"farm"
 		]
 	},
-	"faces": {
-		"scott-harris-sadness": [
+	{
+		"category": "faces",
+		"title": "scott-harris-sadness",
+		"themes": [
 			"down",
 			"pained",
 			"unhappy",
@@ -247,8 +275,12 @@
 			"hopeless",
 			"heartbroken",
 			"disappointed"
-		],
-		"scott-harris-joy": [
+		]
+	},
+	{
+		"category": "faces",
+		"title": "scott-harris-joy",
+		"themes": [
 			"positive",
 			"fake smile",
 			"real smile",
@@ -265,8 +297,12 @@
 			"pleased",
 			"anticipation",
 			"amused"
-		],
-		"scott-harris-anger": [
+		]
+	},
+	{
+		"category": "faces",
+		"title": "scott-harris-anger",
+		"themes": [
 			"concerned",
 			"frowning",
 			"skeptical",
@@ -283,8 +319,12 @@
 			"over-confidence",
 			"prideful",
 			"sneer"
-		],
-		"scott-harris-thought": [
+		]
+	},
+	{
+		"category": "faces",
+		"title": "scott-harris-thought",
+		"themes": [
 			"confused",
 			"curiosity",
 			"surprised",
@@ -301,8 +341,12 @@
 			"remembering",
 			"lying",
 			"forgetful"
-		],
-		"scott-harris-energy": [
+		]
+	},
+	{
+		"category": "faces",
+		"title": "scott-harris-energy",
+		"themes": [
 			"at ease",
 			"calm",
 			"relaxed",
@@ -321,4 +365,4 @@
 			"exhausted"
 		]
 	}
-}
+]
