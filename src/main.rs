@@ -18,7 +18,6 @@ fn usage() {
 fn main() {
     let args: Vec<String> = env::args().collect();
     let contents = fs::read_to_string("assets/inktoberthemes.json").expect("File doesn't exist.");
-    // let data = fs::read_to_string("./src/data.json").unwrap();
     let parsed = serde_json::from_str::<Vec<Themes>>(&contents).expect("JSON was not well formed");
 
     if args.len() == 1 {
