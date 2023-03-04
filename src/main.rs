@@ -12,7 +12,7 @@ struct Theme {
 
 fn usage() {
     println!("Usage: cargo run -- [<category> ...]");
-    println!("category: [general | faces]");
+    println!("category: [general | emotion | genre]");
 }
 
 fn main() {
